@@ -55,8 +55,8 @@ Son las ~~cañerías~~ del cuerpo
 
 # Revision medica
 
-- [ ] analisis de sangre
-- [x] tacto rectal
+- [x] analisis de sangre
+- [ ] tacto rectal
 - [ ] electrocar diagrama
 - [ ] medicion y pesado
 
